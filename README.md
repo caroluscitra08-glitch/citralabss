@@ -1,4 +1,4 @@
-<index.l)
+<DOCTYPE html>
 <html>
 <head>
   <title>CitraLabs</title>
