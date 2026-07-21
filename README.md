@@ -1,4 +1,4 @@
-<index.html)
+<index.l)
 <html>
 <head>
   <title>CitraLabs</title>
